@@ -4,15 +4,15 @@ This document is to describe the establishment and implementation of committees,
 
 ## Background
 
-In past years,, Syzygy SF was run in a very ad-hoc way, based on what people were excited about and when people had free time. As we grow, we have established  a more structured, more scalable, long term approach based on the following objectives:
+In past years,, Syzygy SF was run in a very ad-hoc way, based on what people were excited about and when people had free time. As we grow, we have established a more structured, more scalable, long term approach based on the following objectives:
 
-- Clarify division and organization of responsibilities and initiatives
-- Distribute responsibilities and initiatives more evenly
-- Enable members to contribute in more ways
-- Enable members to contribute in ways that they enjoy more
-- Empower members to create the changes they want to see at Syz
-- Empower members to delegate tasks to one another
-- Enable members to pass on responsibilities to others and take breaks.
+- Clarifies division and organization of responsibilities and initiatives
+- Distributes responsibilities and initiatives more evenly
+- Enables members to contribute in more ways
+- Enables members to contribute in ways that they enjoy more
+- Empowers members to create the changes they want to see at Syz
+- Empowers members to delegate tasks to one another
+- Enables members to pass on responsibilities to others and take breaks.
 
 ## High Level
 
@@ -115,7 +115,7 @@ This category describes responsibilities that all offices have.
   - Syzygy discord server
   - Social Media platforms
   - Syzygy Website
-  - Collaboration with Digital Management
+- Collaboration with Digital Management
 - Manages Syzygy’s PR policies and manages any PR incidents that come up.
 - Manages communication requests from outside organizations and makes sure that information makes it to the appropriate members.
 - Manages communications and relationships with local artists and organizations outside of Syzygy.
@@ -168,11 +168,11 @@ Besides this, the executive council is allowed no additional privileges.
 
 ## Nomination and Voting
 
-Voting will happen in early November of each year in order to elect the members of the executive council. The exact date can be decided by the member operations committee, but the vote should happen before people start traveling for the holidays. Committee chairs will start their term on January 1st and it will last one year.
+The voting process will begin at the start of the new year in order to elect the members of the executive council.. Committee chairs will start their term In February  and it will last one year.
 
-Candidates for each position will be nominated anonymously by Syzygy members. Candidates need to be nominated twice in order to become candidates. After being nominated, members can choose to accept or reject their nomination. If no one is nominated, then we go through the same process as if we got a “no confidence”, which is to simply repeat the process.
+Nominations open at the first General Meeting of the year. Candidates for each position will be nominated anonymously by Syzygy members. Candidates need to be nominated twice in order to become candidates. After being nominated, members can choose to accept or reject their nomination. If no one is nominated, then we go through the same process as if we got a “no confidence”, which is to simply repeat the process.
 
-After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions.
+After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions. This will typically occur at the Second General Meeting of the year, but can be extended if arranged by Member Operation committee ahead of time.
 
 Voting will happen afterwards via a Google form. All the members will be given 2 weeks to vote. Members will be allowed to either vote for a candidate or vote no confidence.
 
