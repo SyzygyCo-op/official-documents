@@ -16,7 +16,7 @@ In past years,, Syzygy SF was run in a very ad-hoc way, based on what people wer
 
 ## High Level
 
-At the high level, we would like to set up committees within Syzygy. Every committee would be led by a committee chair and made up of Syzygy members. The committee chairs, along with the President, would make up the Executive Council (EC). Every member must be in a committee, but members can choose which committee they want to be in.
+At the high level, we would like to set up committees within Syzygy. Every committee would be led by a committee chair and made up of Syzygy members. The committee chairs, along with the President, would make up the Executive Council (EC). A member can only hold one role in the Executive Council. Every member must be in a committee, but members can choose which committee they want to be in.
 
 ## Committees
 
@@ -37,6 +37,15 @@ This category describes responsibilities that all offices have.
 - Onboard successor with appropriate information and documentation such that they can do their job effectively.
 - Communicate committee activities, initiatives and decisions to the rest of the organization.
 
+### Compliance
+
+- Determines and records requirements from governments that apply to Syzygy
+- Requests information and action from other committees as necessary to satisfy those requirements
+- Fills out and submits forms as necessary to satisfy those requirements, including but not limited to:
+  - Files tax returns
+  - Applies for permits
+  - Applies for grants
+
 ### Finance
 
 - Reports on Syz finances
@@ -44,11 +53,9 @@ This category describes responsibilities that all offices have.
 - Manages Syz 's financial plan
 - Manages member dues and how we raise money through dues
 - Manages standards of fundraising at events
-- Manages Syz fundraising events, campaigns and strategies
-  - This includes grant applications, government or corporate funding, sponsors, awards, etc.
-- Manages Syzygy taxes and financial records
+- Manages Syzygy financial records
 - Process for proposing finance uses
-- Process for getting bids for capital projects
+- Collaborate with House Committee on Process for getting bids for capital projects
 - Process for determining need for special expenses
 
 ### House (Physical Space)
@@ -59,18 +66,19 @@ This category describes responsibilities that all offices have.
 - Organizes cleaning days
 - Gathers input from members on how we should improve the space
 - Manages our utilities accounts
-- Manages, implements and enforces policies related to maintenance and use of the space.
+- Manages and implements policies related to maintenance and use of the space.
 - Manages the tools in the space, how they’re used/borrowed and makes sure they stay in good use.
-- Manages the technological assets of the space and makes sure that they are working as expected.
+-
 
 ### Events
 
 - Facilitates members running events. (Events committee is not responsible for running all the events).
+- Manages facilitating Event Pods
 - Manages and organizes events to make sure members are happy and getting a meaningful community experience out of being a member.
   - Coordinates with member operations to organize member-focused events
 - Manages finding volunteers for bigger events.
 - Coordinates between event hosts; reviews calendar for resource (time, space, noise, equipment, etc) conflicts and resolves them as necessary
-- Organizes seminars and workshops around community management, event planning, Syzygy policies, culture and standards, or anything else that would enable and empower Syzygy members.
+-
 - Manages permitting, communications and relationships with official government organizations to make sure we’re in compliance for all of our events.
 - Promotes events (on social media, posts flyers, etc).
   - Collaboration with External Communications
@@ -79,7 +87,7 @@ This category describes responsibilities that all offices have.
 
 - Manages communication among the members
 - Manages the process by which people become members
-- Makes sure that all the members know everything they need to know and sets up processes and systems to make sure members are well informed
+- Makes sure that all the members know necessary information  and sets up processes and systems to make sure members are well informed
 - Manages prospective new members so that they go through the process of becoming a new member efficiently and effectively
 - Manages and organizes policies, processes and systems to make sure members are happy and getting a meaningful community experience out of being a member.
 - Manages disputes between members
@@ -90,7 +98,7 @@ This category describes responsibilities that all offices have.
 - Manages executive council election procedures, such as nomination, candidate speeches and Q&A as well as voting.
 - Manages the bylaws, any changes to the bylaws and enforces the bylaws
 
-### Digital Management
+### IT
 
 - Manages the technical maintenance of Syzygy’s public platforms and websites, including, but not limited to:
   - Syzygy Discord server
@@ -108,6 +116,7 @@ This category describes responsibilities that all offices have.
   - Cloud storage
   - Internal and public calendars
   - Project management
+- Evaluate and implement possible improvements to the above
 
 ### External Communications
 
@@ -128,19 +137,26 @@ This category describes responsibilities that all offices have.
 
 The president will not be in any of the committees. Their responsibilities are listed below:
 
-- Facilitates communications between all the other committees
-- Organizes projects, initiatives, and efforts across the committees so that they don’t interfere with one another or block one another.
-- Organizes quarterly meetings for the committee chairs
-- Provides a high level vision for the organization and executes that vision by working with the committees
-- Sets goals for the organization. Plans and executes a way toward those goals.
-- Handles everything that falls outside of the committees’ jurisdictions
-- Promotes new ideas and innovation within Syzygy, even when these new ideas might not work out perfectly or when these ideas push us out of our comfort zones.
-- Pushes Syzygy to be as great as it can be and prevents Syzygy from stagnating or growing stale.
-- Identifies high level problems and inefficiencies within Syzygy and works with committees to effectively combat these problems and inefficiencies.
-- Develops and provides plans to deal with every situation, problem or goal that we end up with.
+- Coordinates between committees
+  - Facilitates communications between committees.
+  - Organizes projects, initiatives, and efforts across the committees so that they don’t interfere with one another or block one another.
+  - Organizes regular meetings for the committee chairs
+  - Makes sure that the committees are running smoothly.
+- Identifies Goals / Visions
+  - Identifies a high level vision for the organization in collaboration with the co-op and enables committees to execute that vision.
+  - Facilitates goal-setting for the organization. Plans and executes a way toward those goals.
+  - Promotes new ideas and innovation within Syzygy, even when these new ideas might not work out perfectly or when these ideas push us out of our comfort zones.
+  - Pushes Syzygy to be as great as it can be and prevents Syzygy from stagnating or growing stale.
+  - Keep Syzygy fresh and spontaneous.
+  - Identifies high level problems and inefficiencies within Syzygy and works with committees to effectively remediate these issuescombat these problems and inefficiencies.
+  - Pushes Syzygy as an organization to continually growalways be growing from our past experiences.
+- Executes Decisions as needed
+  - Oversees work that falls outside of the committees’ jurisdictions
+-
+  - Executes decisions to take on situations, problems or goals aswe face them.
 - Inspires Syzygy members to do the most that they can with Syzygy
-- Pushes Syzygy as an organization to always be growing from our past experiences.
-- Makes sure that the committees are doing their jobs.
+-
+-
 
 ## Committees
 
@@ -192,7 +208,7 @@ If an EC member stops being part of the EC for any reason, Member Operations wil
 
 It’s important to us to be able to be flexible with these committees, especially since we’re not sure how it’s going to go at the beginning.
 
-As a result, we will allow all of the following to happen by majority vote to change the bylaws:
+As a result, we will allow all of the following to happen by majority vote to change this policy:
 
 - Shifting responsibilities from one committee to another
 - Renaming committees
