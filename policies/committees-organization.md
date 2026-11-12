@@ -55,7 +55,7 @@ This category describes responsibilities that all offices have.
 - Manages standards of fundraising at events
 - Manages Syzygy financial records
 - Process for proposing finance uses
-- Collaborate with House Committee on process for getting bids for capital projects
+- Collaborate with House Committee on Process for getting bids for capital projects
 - Process for determining need for special expenses
 
 ### House (Physical Space)
@@ -183,7 +183,7 @@ The voting process will begin at the start of the new year in order to elect the
 
 Nominations open at the first General Meeting of the year. Candidates for each position will be nominated anonymously by Syzygy members. Candidates need to be nominated twice in order to become candidates. After being nominated, members can choose to accept or reject their nomination. If no one is nominated, then we go through the same process as if we got a “no confidence”, which is to simply repeat the process.
 
-After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions. This will typically occur at the second General Meeting of the year, but can be extended if arranged by Member Operations committee ahead of time.
+After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions. This will typically occur at the second General Meeting of the year, but can be extended if arranged by the Member Operations committee ahead of time.
 
 Voting will happen afterwards via a Google form. All the members will be given 2 weeks to vote. Members will be allowed to either vote for a candidate or vote no confidence.
 
