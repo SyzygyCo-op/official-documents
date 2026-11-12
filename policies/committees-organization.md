@@ -4,7 +4,7 @@ This document is to describe the establishment and implementation of committees,
 
 ## Background
 
-In past years,, Syzygy SF was run in a very ad-hoc way, based on what people were excited about and when people had free time. As we grow, we have established a more structured, more scalable, long term approach based on the following objectives:
+In past years, Syzygy SF was run in a very ad-hoc way, based on what people were excited about and when people had free time. As we grow, we have established a more structured, more scalable, long term approach based on the following objectives:
 
 - Clarifies division and organization of responsibilities and initiatives
 - Distributes responsibilities and initiatives more evenly
@@ -55,7 +55,7 @@ This category describes responsibilities that all offices have.
 - Manages standards of fundraising at events
 - Manages Syzygy financial records
 - Process for proposing finance uses
-- Collaborate with House Committee on Process for getting bids for capital projects
+- Collaborate with House Committee on process for getting bids for capital projects
 - Process for determining need for special expenses
 
 ### House (Physical Space)
@@ -76,9 +76,9 @@ This category describes responsibilities that all offices have.
 - Manages and organizes events to make sure members are happy and getting a meaningful community experience out of being a member.
   - Coordinates with member operations to organize member-focused events
 - Manages finding volunteers for bigger events.
-- Coordinates between event hosts; reviews calendar for resource (time, space, noise, equipment, etc) conflicts and resolves them as necessary
+- Coordinates between event hosts; reviews calendar for resource (time, space, noise, equipment, etc.) conflicts and resolves them as necessary
 - Manages permitting, communications and relationships with official government organizations to make sure we’re in compliance for all of our events.
-- Promotes events (on social media, posts flyers, etc).
+- Promotes events (on social media, posts flyers, etc.).
   - Collaboration with External Communications
 
 ### Member Operations
@@ -119,9 +119,9 @@ This category describes responsibilities that all offices have.
 ### External Communications
 
 - Manages the content and messaging of Syzygy’s public platforms and websites, including, but not limited to:
-  - Syzygy discord server
-  - Social Media platforms
-  - Syzygy Website
+  - Syzygy Discord server
+  - Social media platforms
+  - Syzygy website
 - Collaboration with Digital Management
 - Manages Syzygy’s PR policies and manages any PR incidents that come up.
 - Manages communication requests from outside organizations and makes sure that information makes it to the appropriate members.
@@ -179,11 +179,11 @@ Besides this, the executive council is allowed no additional privileges.
 
 ## Nomination and Voting
 
-The voting process will begin at the start of the new year in order to elect the members of the executive council.. Committee chairs will start their term In February and it will last one year.
+The voting process will begin at the start of the new year in order to elect the members of the executive council. Committee chairs will start their term in February and it will last one year.
 
 Nominations open at the first General Meeting of the year. Candidates for each position will be nominated anonymously by Syzygy members. Candidates need to be nominated twice in order to become candidates. After being nominated, members can choose to accept or reject their nomination. If no one is nominated, then we go through the same process as if we got a “no confidence”, which is to simply repeat the process.
 
-After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions. This will typically occur at the Second General Meeting of the year, but can be extended if arranged by Member Operation committee ahead of time.
+After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions. This will typically occur at the second General Meeting of the year, but can be extended if arranged by Member Operations committee ahead of time.
 
 Voting will happen afterwards via a Google form. All the members will be given 2 weeks to vote. Members will be allowed to either vote for a candidate or vote no confidence.
 
@@ -211,7 +211,7 @@ As a result, we will allow all of the following to happen by majority vote to ch
 
 ## Closed Discussion Topics
 
-- “What if there’s a responsibility that no committee wants to take on”?
+- “What if there’s a responsibility that no committee wants to take on?”
   - If it is a required responsibility, then the committees must negotiate amongst themselves to find out who will take that responsibility. This may involve:
     - Trading responsibilities
     - Receiving fewer responsibilities in exchange for taking on a particularly difficult responsibility
@@ -219,7 +219,7 @@ As a result, we will allow all of the following to happen by majority vote to ch
 - What do we think of doing 6 month terms instead of one year?
   - shorter terms can provide a lot more flexibility, especially since we don't know how this is going to go at first
   - however, elections are also work and doing more of them per year would be more work (but we can make elections less work)
-  - People can appoint someone or step down as committee chair instead of needing to rely on a built in term endings.
+  - People can appoint someone or step down as committee chair instead of needing to rely on built in term endings.
   - After some discussion, it did not seem like there was any significant, obvious or certain advantage to this. As a result, I think we should try out the 1 year term for now and revisit this issue if we want once we have more data and experience.
 - Do we want to allow abstaining from the committee chair votes?
   - We currently allow abstaining in all other types of votes.
