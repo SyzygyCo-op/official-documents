@@ -4,7 +4,7 @@ This document is to describe the establishment and implementation of committees,
 
 ## Background
 
-In past years,, Syzygy SF was run in a very ad-hoc way, based on what people were excited about and when people had free time. As we grow, we have established a more structured, more scalable, long term approach based on the following objectives:
+In past years, Syzygy SF was run in a very ad-hoc way, based on what people were excited about and when people had free time. As we grow, we have established a more structured, more scalable, long term approach based on the following objectives:
 
 - Clarifies division and organization of responsibilities and initiatives
 - Distributes responsibilities and initiatives more evenly
@@ -50,7 +50,7 @@ This category describes responsibilities that all offices have.
 
 - Reports on Syz finances
 - Allocates use of Syz funds
-- Manages Syz 's financial plan
+- Manages Syz's financial plan
 - Manages member dues and how we raise money through dues
 - Manages standards of fundraising at events
 - Manages Syzygy financial records
@@ -68,7 +68,6 @@ This category describes responsibilities that all offices have.
 - Manages our utilities accounts
 - Manages and implements policies related to maintenance and use of the space.
 - Manages the tools in the space, how they’re used/borrowed and makes sure they stay in good use.
--
 
 ### Events
 
@@ -77,17 +76,16 @@ This category describes responsibilities that all offices have.
 - Manages and organizes events to make sure members are happy and getting a meaningful community experience out of being a member.
   - Coordinates with member operations to organize member-focused events
 - Manages finding volunteers for bigger events.
-- Coordinates between event hosts; reviews calendar for resource (time, space, noise, equipment, etc) conflicts and resolves them as necessary
--
+- Coordinates between event hosts; reviews calendar for resource (time, space, noise, equipment, etc.) conflicts and resolves them as necessary
 - Manages permitting, communications and relationships with official government organizations to make sure we’re in compliance for all of our events.
-- Promotes events (on social media, posts flyers, etc).
+- Promotes events (on social media, posts flyers, etc.).
   - Collaboration with External Communications
 
 ### Member Operations
 
 - Manages communication among the members
 - Manages the process by which people become members
-- Makes sure that all the members know necessary information  and sets up processes and systems to make sure members are well informed
+- Makes sure that all the members know necessary information and sets up processes and systems to make sure members are well informed
 - Manages prospective new members so that they go through the process of becoming a new member efficiently and effectively
 - Manages and organizes policies, processes and systems to make sure members are happy and getting a meaningful community experience out of being a member.
 - Manages disputes between members
@@ -121,9 +119,9 @@ This category describes responsibilities that all offices have.
 ### External Communications
 
 - Manages the content and messaging of Syzygy’s public platforms and websites, including, but not limited to:
-  - Syzygy discord server
-  - Social Media platforms
-  - Syzygy Website
+  - Syzygy Discord server
+  - Social media platforms
+  - Syzygy website
 - Collaboration with Digital Management
 - Manages Syzygy’s PR policies and manages any PR incidents that come up.
 - Manages communication requests from outside organizations and makes sure that information makes it to the appropriate members.
@@ -148,19 +146,16 @@ The president will not be in any of the committees. Their responsibilities are l
   - Promotes new ideas and innovation within Syzygy, even when these new ideas might not work out perfectly or when these ideas push us out of our comfort zones.
   - Pushes Syzygy to be as great as it can be and prevents Syzygy from stagnating or growing stale.
   - Keep Syzygy fresh and spontaneous.
-  - Identifies high level problems and inefficiencies within Syzygy and works with committees to effectively remediate these issuescombat these problems and inefficiencies.
-  - Pushes Syzygy as an organization to continually growalways be growing from our past experiences.
+  - Identifies high level problems and inefficiencies within Syzygy and works with committees to effectively remediate these issues.
+  - Pushes Syzygy as an organization to continually grow from our past experiences.
 - Executes Decisions as needed
   - Oversees work that falls outside of the committees’ jurisdictions
--
-  - Executes decisions to take on situations, problems or goals aswe face them.
+  - Executes decisions to take on situations, problems or goals as we face them.
 - Inspires Syzygy members to do the most that they can with Syzygy
--
--
 
 ## Committees
 
-Committees will be run by the committee chairs and made up of Syzygy members that decided to join that committee. Every Syzygy member will be required to join a committee upon joining. Syzygy members can switch to join a different committee at any time. 
+Committees will be run by the committee chairs and made up of Syzygy members that decided to join that committee. Every Syzygy member will be required to join a committee upon joining. Syzygy members can switch to join a different committee at any time.
 
 Committee meetings must be held at least monthly. Any Syzygy member can go to any committee meeting.
 
@@ -178,17 +173,17 @@ Decisions that are made by a committee can be contested, taken to a discussion, 
 
 The executive council will consist of the president and the committee chairs. The executive council is expected to work together as a team to lead Syzygy and its members.
 
-In cases of emergency, a quorum consisting of half or more members of the executive council will be enabled to take emergency actions without consulting the rest of the organization. 
+In cases of emergency, a quorum consisting of half or more members of the executive council will be enabled to take emergency actions without consulting the rest of the organization.
 
 Besides this, the executive council is allowed no additional privileges.
 
 ## Nomination and Voting
 
-The voting process will begin at the start of the new year in order to elect the members of the executive council.. Committee chairs will start their term In February  and it will last one year.
+The voting process will begin at the start of the new year in order to elect the members of the executive council. Committee chairs will start their term in February and it will last one year.
 
 Nominations open at the first General Meeting of the year. Candidates for each position will be nominated anonymously by Syzygy members. Candidates need to be nominated twice in order to become candidates. After being nominated, members can choose to accept or reject their nomination. If no one is nominated, then we go through the same process as if we got a “no confidence”, which is to simply repeat the process.
 
-After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions. This will typically occur at the Second General Meeting of the year, but can be extended if arranged by Member Operation committee ahead of time.
+After nomination, candidates will be given some time to put together a campaign platform and provide it to the organization. Member Operations will also organize a time for candidates to explain and describe their platforms, promote themselves, and answer questions. This will typically occur at the second General Meeting of the year, but can be extended if arranged by the Member Operations committee ahead of time.
 
 Voting will happen afterwards via a Google form. All the members will be given 2 weeks to vote. Members will be allowed to either vote for a candidate or vote no confidence.
 
@@ -202,7 +197,7 @@ The members have the ability to remove any member of the EC via a majority vote 
 
 Executive Council members can also choose to leave their position at any time.
 
-If an EC member stops being part of the EC for any reason, Member Operations will organize a new, accelerated nomination and vote cycle.The EC will appoint an interim office-holder by plurality vote. 
+If an EC member stops being part of the EC for any reason, Member Operations will organize a new, accelerated nomination and vote cycle. The EC will appoint an interim office-holder by plurality vote.
 
 ## Changing Committee Structure
 
@@ -216,7 +211,7 @@ As a result, we will allow all of the following to happen by majority vote to ch
 
 ## Closed Discussion Topics
 
-- “What if there’s a responsibility that no committee wants to take on”?
+- “What if there’s a responsibility that no committee wants to take on?”
   - If it is a required responsibility, then the committees must negotiate amongst themselves to find out who will take that responsibility. This may involve:
     - Trading responsibilities
     - Receiving fewer responsibilities in exchange for taking on a particularly difficult responsibility
@@ -224,7 +219,7 @@ As a result, we will allow all of the following to happen by majority vote to ch
 - What do we think of doing 6 month terms instead of one year?
   - shorter terms can provide a lot more flexibility, especially since we don't know how this is going to go at first
   - however, elections are also work and doing more of them per year would be more work (but we can make elections less work)
-  - People can appoint someone or step down as committee chair instead of needing to rely on a built in term endings.
+  - People can appoint someone or step down as committee chair instead of needing to rely on built in term endings.
   - After some discussion, it did not seem like there was any significant, obvious or certain advantage to this. As a result, I think we should try out the 1 year term for now and revisit this issue if we want once we have more data and experience.
 - Do we want to allow abstaining from the committee chair votes?
   - We currently allow abstaining in all other types of votes.
@@ -240,5 +235,3 @@ As a result, we will allow all of the following to happen by majority vote to ch
   - We are choosing to go with what we have right now and modify if we decide we need any changes soon.
 
 ## Open Topics
-
--
