@@ -68,7 +68,6 @@ This category describes responsibilities that all offices have.
 - Manages our utilities accounts
 - Manages and implements policies related to maintenance and use of the space.
 - Manages the tools in the space, how they’re used/borrowed and makes sure they stay in good use.
--
 
 ### Events
 
@@ -78,7 +77,6 @@ This category describes responsibilities that all offices have.
   - Coordinates with member operations to organize member-focused events
 - Manages finding volunteers for bigger events.
 - Coordinates between event hosts; reviews calendar for resource (time, space, noise, equipment, etc) conflicts and resolves them as necessary
--
 - Manages permitting, communications and relationships with official government organizations to make sure we’re in compliance for all of our events.
 - Promotes events (on social media, posts flyers, etc).
   - Collaboration with External Communications
@@ -152,11 +150,8 @@ The president will not be in any of the committees. Their responsibilities are l
   - Pushes Syzygy as an organization to continually grow from our past experiences.
 - Executes Decisions as needed
   - Oversees work that falls outside of the committees’ jurisdictions
--
   - Executes decisions to take on situations, problems or goals as we face them.
 - Inspires Syzygy members to do the most that they can with Syzygy
--
--
 
 ## Committees
 
@@ -240,5 +235,3 @@ As a result, we will allow all of the following to happen by majority vote to ch
   - We are choosing to go with what we have right now and modify if we decide we need any changes soon.
 
 ## Open Topics
-
--
