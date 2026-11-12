@@ -50,7 +50,7 @@ This category describes responsibilities that all offices have.
 
 - Reports on Syz finances
 - Allocates use of Syz funds
-- Manages Syz 's financial plan
+- Manages Syz's financial plan
 - Manages member dues and how we raise money through dues
 - Manages standards of fundraising at events
 - Manages Syzygy financial records
@@ -85,7 +85,7 @@ This category describes responsibilities that all offices have.
 
 - Manages communication among the members
 - Manages the process by which people become members
-- Makes sure that all the members know necessary information  and sets up processes and systems to make sure members are well informed
+- Makes sure that all the members know necessary information and sets up processes and systems to make sure members are well informed
 - Manages prospective new members so that they go through the process of becoming a new member efficiently and effectively
 - Manages and organizes policies, processes and systems to make sure members are happy and getting a meaningful community experience out of being a member.
 - Manages disputes between members
@@ -155,7 +155,7 @@ The president will not be in any of the committees. Their responsibilities are l
 
 ## Committees
 
-Committees will be run by the committee chairs and made up of Syzygy members that decided to join that committee. Every Syzygy member will be required to join a committee upon joining. Syzygy members can switch to join a different committee at any time. 
+Committees will be run by the committee chairs and made up of Syzygy members that decided to join that committee. Every Syzygy member will be required to join a committee upon joining. Syzygy members can switch to join a different committee at any time.
 
 Committee meetings must be held at least monthly. Any Syzygy member can go to any committee meeting.
 
@@ -173,13 +173,13 @@ Decisions that are made by a committee can be contested, taken to a discussion, 
 
 The executive council will consist of the president and the committee chairs. The executive council is expected to work together as a team to lead Syzygy and its members.
 
-In cases of emergency, a quorum consisting of half or more members of the executive council will be enabled to take emergency actions without consulting the rest of the organization. 
+In cases of emergency, a quorum consisting of half or more members of the executive council will be enabled to take emergency actions without consulting the rest of the organization.
 
 Besides this, the executive council is allowed no additional privileges.
 
 ## Nomination and Voting
 
-The voting process will begin at the start of the new year in order to elect the members of the executive council.. Committee chairs will start their term In February  and it will last one year.
+The voting process will begin at the start of the new year in order to elect the members of the executive council.. Committee chairs will start their term In February and it will last one year.
 
 Nominations open at the first General Meeting of the year. Candidates for each position will be nominated anonymously by Syzygy members. Candidates need to be nominated twice in order to become candidates. After being nominated, members can choose to accept or reject their nomination. If no one is nominated, then we go through the same process as if we got a “no confidence”, which is to simply repeat the process.
 
@@ -197,7 +197,7 @@ The members have the ability to remove any member of the EC via a majority vote 
 
 Executive Council members can also choose to leave their position at any time.
 
-If an EC member stops being part of the EC for any reason, Member Operations will organize a new, accelerated nomination and vote cycle.The EC will appoint an interim office-holder by plurality vote. 
+If an EC member stops being part of the EC for any reason, Member Operations will organize a new, accelerated nomination and vote cycle. The EC will appoint an interim office-holder by plurality vote.
 
 ## Changing Committee Structure
 
