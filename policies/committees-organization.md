@@ -148,12 +148,12 @@ The president will not be in any of the committees. Their responsibilities are l
   - Promotes new ideas and innovation within Syzygy, even when these new ideas might not work out perfectly or when these ideas push us out of our comfort zones.
   - Pushes Syzygy to be as great as it can be and prevents Syzygy from stagnating or growing stale.
   - Keep Syzygy fresh and spontaneous.
-  - Identifies high level problems and inefficiencies within Syzygy and works with committees to effectively remediate these issuescombat these problems and inefficiencies.
-  - Pushes Syzygy as an organization to continually growalways be growing from our past experiences.
+  - Identifies high level problems and inefficiencies within Syzygy and works with committees to effectively remediate these issues.
+  - Pushes Syzygy as an organization to continually grow from our past experiences.
 - Executes Decisions as needed
   - Oversees work that falls outside of the committees’ jurisdictions
 -
-  - Executes decisions to take on situations, problems or goals aswe face them.
+  - Executes decisions to take on situations, problems or goals as we face them.
 - Inspires Syzygy members to do the most that they can with Syzygy
 -
 -
