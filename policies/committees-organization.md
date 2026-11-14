@@ -26,6 +26,12 @@ Furthermore, there will be many responsibilities and tasks that fall into a gray
 
 All Syzygy responsibilities must fall under some committee’s jurisdiction. If there are any responsibilities that no committee wants to take on, the committees must negotiate among themselves to figure out who has to take on that responsibility.
 
+If it is a required responsibility, then the committees must negotiate amongst themselves to find out who will take that responsibility. This may involve:
+
+- Trading responsibilities
+- Receiving fewer responsibilities in exchange for taking on a particularly difficult responsibility
+- Receiving more fun responsibilities in exchange for taking on a particularly difficult responsibility.
+
 ### Meta-Responsibilities
 
 This category describes responsibilities that all offices have.
@@ -211,11 +217,6 @@ As a result, we will allow all of the following to happen by majority vote to ch
 
 ## Closed Discussion Topics
 
-- “What if there’s a responsibility that no committee wants to take on?”
-  - If it is a required responsibility, then the committees must negotiate amongst themselves to find out who will take that responsibility. This may involve:
-    - Trading responsibilities
-    - Receiving fewer responsibilities in exchange for taking on a particularly difficult responsibility
-    - Receiving more fun responsibilities in exchange for taking on a particularly difficult responsibility.
 - What do we think of doing 6 month terms instead of one year?
   - shorter terms can provide a lot more flexibility, especially since we don't know how this is going to go at first
   - however, elections are also work and doing more of them per year would be more work (but we can make elections less work)
