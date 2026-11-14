@@ -21,6 +21,7 @@ Click a file's name to open it and read it.
 |---|---|
 | `bylaws.md` | The bylaws. |
 | `policies/` | A folder with one file for each policy. Each file has a short name for its policy, in lowercase with dashes between the words. |
+| `background/` | A folder of notes on how some documents were decided, kept for reference. A document's notes have the same file name as the document, and nothing in this folder is binding. |
 
 The documents are being added one at a time, so a file may not be here yet.
 A missing file only means the document has not been added here so far.
